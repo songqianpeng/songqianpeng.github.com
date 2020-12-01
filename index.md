@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+姓名：宋钱鹏
+学历：本科
+学校：浙江万里学院
+专业：网络空间安全
+邮箱：1422364471@qq，com
+爱好：旅游，看书，听音乐
 
-You can use the [editor on GitHub](https://github.com/songqianpeng/songqianpeng.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+在校荣誉：
+2020-2021“垃圾投进趣”全国青年公益实践大赛校内赛第四名
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+证书：机动车驾驶证
 
-### Markdown
+实践经历：基础学院雷锋营天使部干事，基础学院自律会自修部干事
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+自我评价：
+具备和他人打交道的相关实践经验，有较强的领导力、沟通能力、组织能力和团队精神
+做事有条理，责任感强，具有较强的抗压能力
+是一个认真工作，认真钻研，勇于创新的人。能熟练运用电脑，掌握一定的office办公软件，与老师与同学保持着紧密的关系，乐于帮助同学解决学习与生活上的麻烦，善于总结归纳，善于沟通，有良好的敬业作风和团队合作精神
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/songqianpeng/songqianpeng.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
